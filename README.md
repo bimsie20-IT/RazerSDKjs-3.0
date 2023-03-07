@@ -35,7 +35,7 @@ chroma.createSession().then(
 <br />
     // If a connection could not be established
     function(error) {
-        window.alert('Razer Synapse with connect plugin were not dedected');
+        window.alert('Razer Synapse with connect plugin was not dedected');
     }
 <br />
 );
