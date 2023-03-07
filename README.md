@@ -106,7 +106,7 @@ color = INT(0 - 16777216) || INT(0x000000 - 0xffffff)    (The color in which you
 <h3>Parsing INT_BGR-colors from CSS_HEX-colors</h3>
 <pre>
 <code>
-parseBGRIntFromCSS(color);
+obj.parseBGRIntFromCSS(color);
 <br />
 <br />
 <b>PARAMETERS</b>
