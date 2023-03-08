@@ -1,7 +1,7 @@
 # RazerSDKjs-3.0
 A (javascript) library that makes it easy to create Razer Chroma effects, build on websocket (comes with build-in function to display text)
 <br />
-Try the web simulator if you like! <a href="https://github.com/bimsie20-IT/RazerSDKjs-3.0/blob/main/RazerChroma%20Web-Simulator.zip">Razer Chroma Preview</a>
+Try the web simulator if you like! <a href="https://github.com/bimsie20-IT/RazerSDKjs-3.0/blob/main/RazerChroma%20Web-Simulator.zip">Razer Chroma Preview</a> (Build on RazerSDKjs-0.1)
 
 <br />
 <br />
